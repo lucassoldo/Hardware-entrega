@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistema minimo on HarTecn</title>
+    <link>http://localhost:1313/PC-recomendada/</link>
+    <description>Recent content in Sistema minimo on HarTecn</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/PC-recomendada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Precio</title>
+      <link>http://localhost:1313/PC-recomendada/features/Precio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PC-recomendada/features/Precio/</guid>
+      <description>&lt;p&gt;contenido hola&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recomendado</title>
+      <link>http://localhost:1313/PC-recomendada/features/Recomendado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PC-recomendada/features/Recomendado/</guid>
+      <description>&lt;p&gt;Contenido de prueba para Subtema 2.&lt;/p&gt;&#xA;&#xA;&#xA;&lt;p&gt;Texto debajo de la imagen si lo necesitás.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Requisitos</title>
+      <link>http://localhost:1313/PC-recomendada/features/Requisitos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/PC-recomendada/features/Requisitos/</guid>
+      <description>&lt;p&gt;Contenido de prueba para Subtema 1.&#xA;jhhjgjhgjhhjvjv&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
