@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tema 1 on Geekdocs</title>
+    <link>http://localhost:1313/tema1/</link>
+    <description>Recent content in Tema 1 on Geekdocs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tema1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subtema 1</title>
+      <link>http://localhost:1313/tema1/subtema1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tema1/subtema1/</guid>
+      <description>&lt;p&gt;Contenido de prueba para Subtema 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Subtema 2</title>
+      <link>http://localhost:1313/tema1/subtema2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tema1/subtema2/</guid>
+      <description>&lt;p&gt;Contenido de prueba para Subtema 2.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
