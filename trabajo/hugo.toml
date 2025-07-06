@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://lucassoldo.github.io/Hardware-entrega/"
 title = "HarTecn"
 theme = "hugo-geekdoc"
 
@@ -28,4 +28,4 @@ enableRobotsTXT = true
 [params]
  geekdocLogo = "logo.png"
 
-baseURL = "https://lucassoldo.github.io/Hardware-entrega/"
+
