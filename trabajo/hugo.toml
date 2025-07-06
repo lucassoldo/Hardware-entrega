@@ -27,3 +27,5 @@ enableRobotsTXT = true
 
 [params]
  geekdocLogo = "logo.png"
+
+baseURL = "https://lucassoldo.github.io/Hardware-entrega/"
