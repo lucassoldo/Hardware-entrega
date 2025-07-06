@@ -21,8 +21,9 @@ Este procesador fue seleccionado por su comprobada superioridad tecnológica, co
 * Memoria soportada: DDR4 y DDR5 (hasta 128 GB)
 
 <p align="center">
-  <img src="/images/Justificacion/procesador.png" alt="Justificacion" width="300">
+  <img src="images/Justificacion/procesador.png" alt="Justificacion" width="300">
 </p>
+
 
 ---
 
