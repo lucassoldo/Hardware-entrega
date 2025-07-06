@@ -20,6 +20,10 @@ Este procesador fue seleccionado por su comprobada superioridad tecnológica, co
 * Zócalo: FCLGA1700
 * Memoria soportada: DDR4 y DDR5 (hasta 128 GB)
 
+<p align="center">
+  <img src="/images/Justificacion/procesador.png" alt="Justificacion" width="300">
+</p>
+
 ---
 
 ## 🎮 GPU: Nvidia MSI RTX 4060 Ventus 2X Black 8GB
@@ -38,6 +42,10 @@ La RTX 4060 fue seleccionada por su potencia gráfica y eficiencia energética. 
 * Resolución máxima: 8K
 * Requiere fuente de 550W o superior
 
+<p align="center">
+  <img src="/images/Justificacion/grafica.png" alt="Justificacion" width="300">
+</p>
+
 ---
 
 ## 🧬 RAM: 2x Kingston ValueRAM 16GB DDR4 3200MHz
@@ -54,6 +62,10 @@ Esta configuración de 32 GB (2x16 GB) DDR4 a 3200 MHz permite operar sin cuello
 * Tasa de transferencia: 25.6 GB/s
 * Voltaje: 1.2V
 
+<p align="center">
+  <img src="/images/Justificacion/ram.png" alt="Justificacion" width="320">
+</p>
+
 ---
 
 ## 🔌 Motherboard: ASUS Prime H610M-K
@@ -63,6 +75,11 @@ Esta configuración de 32 GB (2x16 GB) DDR4 a 3200 MHz permite operar sin cuello
 
 **Justificación:**
 Placa madre robusta, ideal para montar una plataforma estable y duradera. Compatible con CPUs Intel de 12ª generación. Soporta hasta 64 GB de RAM DDR4. Su chipset H610 ofrece una base sólida para tareas exigentes sin costos innecesarios.
+
+<p align="center">
+  <img src="/images/Justificacion/motherborad.png" alt="Justificacion" width="450">
+</p>
+
 
 ---
 
@@ -82,6 +99,10 @@ Su potencia de 650W proporciona suficiente margen para el sistema completo, incl
 * Dimensiones: 8.6 x 15 cm
 * Frecuencia: 63 Hz
 
+<p align="center">
+  <img src="/images/Justificacion/fuente.png" alt="Justificacion" width="350">
+</p>
+
 ---
 
 ## 📀 Almacenamiento: SSD Kingston A400 480GB
@@ -99,6 +120,10 @@ Este SSD mejora significativamente los tiempos de carga del sistema operativo y 
 * Consumo máx. escritura: 1.535W
 * Dimensiones: 100 x 69.9 x 7 mm (2.5")
 
+<p align="center">
+  <img src="/images/Justificacion/ssd.png" alt="Justificacion" width="300">
+</p>
+
 ---
 
 ## 🏢 Gabinete: Montech AIR 1000 LITE MID TOWER
@@ -115,6 +140,10 @@ Gabinete moderno con panel de vidrio templado, buena ventilación (3 ventiladore
 * Tamaño: 49.5 x 22 x 41.6 cm
 * Compatible con refrigeración líquida
 
+<p align="center">
+  <img src="/images/Justificacion/gabinete.png" alt="Justificacion" width="280">
+</p>
+
 ---
 
 ## ⌨️ Periféricos: Teclado + Mouse Logitech MK345 Inalámbrico
@@ -125,6 +154,9 @@ Gabinete moderno con panel de vidrio templado, buena ventilación (3 ventiladore
 **Justificación:**
 Combo ergonómico y eficiente. Teclado resistente a salpicaduras, con reposamanos cómodo. Mouse con buena precisión. Excelente duración de baterías: hasta 36 meses en teclado, 18 meses en mouse.
 
+<p align="center">
+  <img src="/images/Justificacion/tecladoymouse.png" alt="Justificacion" width="400">
+</p>
 ---
 
 ## 💻 Monitor: Samsung 22" T350 LF22T350FHL
@@ -135,6 +167,9 @@ Combo ergonómico y eficiente. Teclado resistente a salpicaduras, con reposamano
 **Justificación:**
 Monitor con diseño sin bordes, liviano y fácil de ensamblar. Ideal para un espacio de trabajo moderno. Buena calidad de imagen y estabilidad en el soporte.
 
+<p align="center">
+  <img src="/images/Justificacion/monitor.png" alt="Justificacion" width="300">
+</p>
 ---
 
 Esta configuración fue seleccionada para maximizar el rendimiento del software de ingeniería mencionado, equilibrando costo, eficiencia y actualizabilidad del sistema.

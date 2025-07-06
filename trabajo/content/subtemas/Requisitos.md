@@ -54,7 +54,7 @@ A continuación, se detallan los requisitos recomendados para los programas util
 | Autodesk Fusion      | Windows 11, versión 22H2 o posterior          | x86-64 / +8 núcleos / +16 hilos / 3GHz+         | Más de 32 GB | Más de 15 GB    | Dedicada, +8 GB VRAM, DirectX11    |
 | Proteus Design Suite | Windows 64 bits                               | x64, 4 núcleos                                   | 16 GB o más  | 100 MB         | Dedicada, OpenGL / Direct3D        |
 | Acrobat Reader       | Windows 7 a 11 / Windows Server               | Intel o AMD, 1.5 GHz o más                       | 2 GB         | 4.5 GB          | No requiere                        |
-| Visual Studio Code   | Windows / macOS / Linux                       | 1.6 GHz o más                                    | 1 GB         | <500 MB         | No requiere                        |
+| Visual Studio Code   | Windows / macOS / Linux                       | 1.6 GHz o más                                    | 1 GB         | 500 MB         | No requiere                        |
 
 ---
 

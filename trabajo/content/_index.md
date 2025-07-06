@@ -3,8 +3,6 @@ title: "Estación de Trabajo para Ingeniería"
 geekdocCollapseSection: false
 ---
 
-{{< img src="/images/logo.jpg" caption="HT – Hardware Técnico" >}}
-
 ## 💻 Proyecto Final — Laboratorio de Hardware
 
 Bienvenidos a la documentación oficial del trabajo integrador final de la Tecnicatura en Desarrollo de Software. Este sitio describe el diseño, selección y justificación técnica de una estación de trabajo optimizada para profesionales de la ingeniería.
@@ -22,10 +20,10 @@ El objetivo es construir una solución informática robusta, basada en requerimi
 
 ## 📂 Secciones Principales
 
-- 📋 [Requisitos Técnicos](/docs/requisitos/)
-- 🧠 [Justificación de Componentes](/docs/justificacion/)
-- 💰 [Presupuesto Total](/docs/presupuesto/)
-- 🧾 [Conclusiones Finales](/docs/conclusiones/)
+- 📋 Requisitos Técnicos
+- 🧠 Justificación de Componentes
+- 💰 Presupuesto Total
+- 🧾 Conclusiones Finales
 
 ---
 
