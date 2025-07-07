@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/subtemas/Justificacion/</loc>
+    <loc>http://localhost:1313/subtemas/Justificacion/</loc>
   </url><url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/subtemas/Presupuesto/</loc>
+    <loc>http://localhost:1313/subtemas/Presupuesto/</loc>
   </url><url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/subtemas/Requisitos/</loc>
+    <loc>http://localhost:1313/subtemas/Requisitos/</loc>
   </url><url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/subtemas/Conclusion/</loc>
+    <loc>http://localhost:1313/subtemas/Conclusion/</loc>
   </url><url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/subtemas/</loc>
+    <loc>http://localhost:1313/subtemas/</loc>
   </url><url>
-    <loc>https://lucassoldo.github.io/Hardware-entrega/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
